@@ -1,4 +1,5 @@
-# The Odin Project
+![The Odin Project](/logo.png)
+
 A collection of projects completed while learning web development through The Odin Project. Includes small apps and games that demonstrate HTML, CSS, JavaScript, and basic web development skills.
 
 - **Weather App** – [Live Demo](https://luukdg.github.io/WeatherApp/) | [Repository](https://github.com/luukdg/WeatherApp)  
