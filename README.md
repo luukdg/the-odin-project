@@ -1,4 +1,4 @@
-![The Odin Project](/logo.png)
+[![The Odin Project](/logo.png)](https://www.theodinproject.com/)
 
 A collection of projects completed while learning web development through The Odin Project. Includes small apps and games that demonstrate HTML, CSS, JavaScript, and basic web development skills.
 
